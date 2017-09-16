@@ -1,0 +1,1 @@
+docker run -d -p 1337:1337/udp --name factorio --restart=always factorio-server
